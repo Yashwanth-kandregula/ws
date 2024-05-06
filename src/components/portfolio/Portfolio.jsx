@@ -44,7 +44,7 @@ const Portfolio = () => {
       img: IMG3,
       description:"A simple tic-tac-toe game using html, css and javascript",
       technologies: "Html | CSS | JavaScript | React js",
-      link: "https://ya-yashwanth-kandregulas-projects.vercel.app/",
+      link: "https://ya-two.vercel.app/",
       github: "https://github.com/Yashwanth-kandregula/ya-/tree/main",
     },
   
