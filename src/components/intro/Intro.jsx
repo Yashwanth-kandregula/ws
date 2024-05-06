@@ -4,7 +4,6 @@ import { FaAward } from "react-icons/fa";
 import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
 import img from '../../assets/Me.png'
-<img src="img" alt="YASH"></img>
 
 
 const Intro = () => {
@@ -15,6 +14,7 @@ const Intro = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
+             <img src={img} alt="yash" />
           </div>
         </div>
         <div className="about__content">
