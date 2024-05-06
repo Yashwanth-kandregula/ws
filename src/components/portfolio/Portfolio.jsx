@@ -35,8 +35,8 @@ const Portfolio = () => {
       img: IMG4,
       description: "blood bank website",
       technologies: "Html | CSS | JavaScript | React Js",
-      link: " ",
-      github: "",
+      link: "https://bb-rho-nine.vercel.app/ ",
+      github: "https://github.com/Yashwanth-kandregula/BB",
     },
     {
       id: 4,
