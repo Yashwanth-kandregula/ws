@@ -4,7 +4,7 @@ import { FaAward } from "react-icons/fa";
 import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
 import img from '../../assets/Me.png'
-<img src="img" alt="YASH">
+<img src="img" alt="YASH"></img>
 
 
 const Intro = () => {
